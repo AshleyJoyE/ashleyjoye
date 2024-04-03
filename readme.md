@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 📄 Know about my experiences [https://brown-emma-80.tiiny.site](https://brown-emma-80.tiiny.site)
+- 📄 Know about my experiences [My Resume](https://brown-emma-80.tiiny.site) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
